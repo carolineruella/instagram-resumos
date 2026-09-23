@@ -1,3 +1,25 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
+<title>Instagram-Resumos</title>
+<meta name="description" content="Resumos em formato de feed: Educação Especial e Inclusiva.">
+<meta name="theme-color" content="#000000">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Resumos">
+<link rel="manifest" href="data:application/manifest+json,%7B%22name%22%3A%22Instagram-Resumos%22%2C%22short_name%22%3A%22Resumos%22%2C%22display%22%3A%22standalone%22%2C%22orientation%22%3A%22portrait%22%2C%22background_color%22%3A%22%23000000%22%2C%22theme_color%22%3A%22%23000000%22%2C%22start_url%22%3A%22.%22%7D">
+<link rel="apple-touch-icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180"><rect width="180" height="180" rx="40" fill="%23000"/><text x="50%25" y="54%25" font-size="120" font-family="Georgia,serif" font-weight="bold" fill="%23ffd23f" text-anchor="middle" dominant-baseline="middle">R</text></svg>'>
+<link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180"><rect width="180" height="180" rx="40" fill="%23000"/><text x="50%25" y="54%25" font-size="120" font-family="Georgia,serif" font-weight="bold" fill="%23ffd23f" text-anchor="middle" dominant-baseline="middle">R</text></svg>'>
+<style>
+  html,body{height:100%;margin:0;}
+  img{max-width:100%;}
+  [hidden]{display:none!important;}
+</style>
+</head>
+<body>
 <title>Instagram-Resumos</title>
 <style>
   :root{
@@ -31,19 +53,23 @@
   }
   html,body{height:100%;}
   body{
-    margin:0;background:#111;color:var(--ink);
+    margin:0;background:var(--bg);color:var(--ink);
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
     -webkit-font-smoothing:antialiased;display:flex;align-items:center;justify-content:center;
   }
   *{box-sizing:border-box;}
   button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit;padding:0;}
 
+  /* Celular: ocupa a tela inteira, sem moldura */
   .phone{
-    width:100%;max-width:440px;height:100dvh;max-height:940px;background:var(--bg);
+    width:100%;height:100dvh;background:var(--bg);
     position:relative;overflow:hidden;display:flex;flex-direction:column;
-    box-shadow:0 30px 80px rgba(0,0,0,.55);
   }
-  @media(min-width:470px){.phone{border-radius:36px;height:920px;}}
+  /* Desktop: mostra a moldura de celular centralizada */
+  @media(min-width:470px){
+    body{background:#111;}
+    .phone{max-width:440px;height:920px;border-radius:36px;box-shadow:0 30px 80px rgba(0,0,0,.55);}
+  }
 
   /* ---------- Top bar ---------- */
   .topbar{
@@ -578,3 +604,6 @@ function renderRev(){
 }
 renderRev();
 </script>
+
+</body>
+</html>

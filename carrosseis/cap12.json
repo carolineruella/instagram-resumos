@@ -1,0 +1,158 @@
+{
+  "user": "fisica.conceitual",
+  "av": "◼",
+  "avc": "#5e5ce6",
+  "disp": "Cap. 12 — Sólidos",
+  "time": "há 4 dias",
+  "likes": 1421,
+  "likedBy": "viga.mestra",
+  "comments": 118,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 12: cristais, densidade, lei de Hooke e arcos. E por que uma formiga do tamanho de um elefante não conseguiria sair do chão. Deslize 👉",
+  "slides": [
+    {
+      "cover": true,
+      "tag": "Carrossel de estudo",
+      "h2": "Sólidos",
+      "n": "Hewitt, cap. 12 · 19 cards + questão"
+    },
+    {
+      "k": "Cristais",
+      "h": "Redes de átomos",
+      "p": "Metais, sais e minerais são cristais: <mark>arranjos ordenados e tridimensionais</mark> de átomos, como tabuleiros de xadrez em 3D. Confirmado com raios X em 1912.",
+      "src": "Hewitt, §12.1"
+    },
+    {
+      "k": "A técnica",
+      "h": "Difração de raios X",
+      "p": "Von Laue viu raios X se separarem em padrões ao atravessar um cristal; os Bragg criaram a fórmula que converte o padrão em <mark>distâncias entre átomos</mark>.",
+      "src": "Hewitt, §12.1"
+    },
+    {
+      "k": "Aplicação famosa",
+      "h": "A dupla hélice",
+      "p": "Os padrões de difração de raios X do DNA obtidos por <mark>Wilkins e Rosalind Franklin</mark> em 1953 forneceram os dados que levaram Watson e Crick à dupla hélice.",
+      "src": "Hewitt, §12.1"
+    },
+    {
+      "k": "Amorfos",
+      "h": "Sólidos sem ordem",
+      "p": "Borracha, vidro e plástico <mark>não têm arranjo repetitivo</mark>. Suas partículas conservam alguma liberdade — daí a elasticidade da borracha e o vidro que escoa sob tensão prolongada.",
+      "src": "Hewitt, §12.1"
+    },
+    {
+      "k": "Massa específica",
+      "h": "Massa por volume",
+      "p": "'O ferro é mais pesado que a madeira?' é pergunta ambígua; a correta é sobre densidade. Ela é <mark>propriedade do material</mark>, independe da quantidade.",
+      "src": "Hewitt, §12.2"
+    },
+    {
+      "k": "Curiosidade",
+      "h": "O irídio ganha por espaçamento",
+      "p": "Seus átomos têm massa <mark>menor</mark> que os de platina, ouro e urânio — mas ficam tão próximos que cabem mais num cm³. Resultado: 22.650 kg/m³, o mais denso da Terra.",
+      "src": "Hewitt, §12.2"
+    },
+    {
+      "k": "Caso do gelo",
+      "h": "Por que flutua",
+      "p": "Ao congelar, a água se expande: a mesma massa passa a ocupar <mark>mais volume</mark>. Densidade menor que a da água líquida — e o gelo flutua.",
+      "src": "Hewitt, §12.2"
+    },
+    {
+      "k": "Elasticidade",
+      "h": "Voltar à forma original",
+      "p": "Mola, bola de beisebol e arco são elásticos: <mark>retornam à forma</mark> quando a força deformante cessa. Argila e chumbo são inelásticos.",
+      "src": "Hewitt, §12.3"
+    },
+    {
+      "k": "Lei de Hooke",
+      "h": "F proporcional a Δx",
+      "p": "A deformação é <mark>diretamente proporcional à força</mark>: dobre o peso na mola e ela distende o dobro. Descoberta por Robert Hooke no século XVII.",
+      "src": "Hewitt, §12.3"
+    },
+    {
+      "k": "Limite",
+      "h": "Onde Hooke deixa de valer",
+      "p": "Passando do <mark>limite elástico</mark>, o material não volta mais ao estado original — fica permanentemente deformado, e a proporcionalidade se perde.",
+      "src": "Hewitt, §12.3"
+    },
+    {
+      "k": "Dois esforços",
+      "h": "Tensão e compressão",
+      "p": "Puxar é tensão, esmagar é compressão. Ao curvar uma régua, a face externa fica <mark>sob tensão</mark> e a interna sob compressão.",
+      "src": "Hewitt, §12.4"
+    },
+    {
+      "k": "Conceito-chave",
+      "h": "A camada neutra",
+      "p": "Entre a face tensionada e a comprimida existe uma região <mark>sem esforço algum</mark>. Furar o galho de uma árvore ali é o que menos o enfraquece.",
+      "src": "Hewitt, §12.4"
+    },
+    {
+      "k": "Engenharia",
+      "h": "A viga em I",
+      "p": "O esforço se concentra nas bordas, então o aço do meio é quase dispensável. A alma só <mark>mantém as bordas unidas</mark> — mesma resistência, peso muito menor.",
+      "src": "Hewitt, §12.4"
+    },
+    {
+      "k": "Arcos",
+      "h": "A compressão reforça",
+      "p": "Rocha rompe fácil sob tensão, mas resiste à compressão. No arco, a carga <mark>aperta as pedras umas contra as outras</mark> — e com a forma certa, nem cimento é preciso.",
+      "src": "Hewitt, §12.5"
+    },
+    {
+      "k": "Duas curvas",
+      "h": "Parábola ou catenária",
+      "p": "Para carga horizontal uniforme, como uma ponte, a forma ideal é a <mark>parábola</mark>. Para sustentar só o próprio peso, é a catenária — a curva de uma corrente pendurada.",
+      "src": "Hewitt, §12.5"
+    },
+    {
+      "k": "Cúpulas",
+      "h": "Arco girado 360°",
+      "p": "Gira-se o arco em torno de um eixo vertical e a carga vira compressão outra vez — por isso a cúpula <mark>vence grandes vãos sem colunas</mark> no meio. O iglu já fazia isso.",
+      "src": "Hewitt, §12.5"
+    },
+    {
+      "k": "Demonstração",
+      "h": "O pintinho e a casca",
+      "p": "É mais fácil romper o ovo de dentro para fora porque aí basta vencer a <mark>tensão, que é fraca</mark>. De fora, seria preciso vencer a compressão da casca.",
+      "src": "Hewitt, §12.5"
+    },
+    {
+      "k": "Mudanças de escala",
+      "h": "Quadrado contra cubo",
+      "p": "Dobrando as dimensões, a área da seção cresce <mark>4 vezes e o volume 8 vezes</mark>. A resistência vem da área; o peso, do volume.",
+      "src": "Hewitt, §12.6"
+    },
+    {
+      "k": "Consequência",
+      "h": "Pernas finas, pernas grossas",
+      "p": "Por isso pernilongos e antílopes têm pernas finas e elefantes as têm grossas — e por isso <mark>King Kong não sairia do chão</mark>. As baleias escapam da regra pelo empuxo da água.",
+      "src": "Hewitt, §12.6"
+    },
+    {
+      "q": true,
+      "k": "Questão de revisão",
+      "h": "Um atleta é ampliado ao dobro da altura e da largura, mantendo as proporções. Sua capacidade de erguer o próprio peso:",
+      "opts": [
+        [
+          "A",
+          "Dobra, pois ele ficou duas vezes maior"
+        ],
+        [
+          "B",
+          "Cai à metade"
+        ],
+        [
+          "C",
+          "Permanece a mesma"
+        ],
+        [
+          "D",
+          "Quadruplica"
+        ]
+      ],
+      "correct": 1,
+      "explain": "A força depende da <b>área</b> da seção transversal, que quadruplica; o peso depende do <b>volume</b>, que fica oito vezes maior. Quatro vezes mais forte carregando oito vezes mais peso dá metade da capacidade relativa."
+    }
+  ]
+}

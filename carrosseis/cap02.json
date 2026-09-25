@@ -1,0 +1,134 @@
+{
+  "user": "fisica.conceitual",
+  "av": "I",
+  "avc": "#ff375f",
+  "disp": "Cap. 2 — Primeira Lei de Newton: Inércia",
+  "time": "há 5 horas",
+  "likes": 1476,
+  "likedBy": "galileu.pisa",
+  "comments": 112,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 2: por que Aristóteles travou a física por 2.000 anos, o que Galileu viu nos planos inclinados e como ΣF = 0 explica tudo que está parado. Deslize 👉",
+  "slides": [
+    {
+      "cover": true,
+      "tag": "Carrossel de estudo",
+      "h2": "Primeira Lei de Newton — Inércia",
+      "n": "Hewitt, cap. 2 · 15 cards + questão"
+    },
+    {
+      "k": "Aristóteles",
+      "h": "Natural e violento",
+      "p": "Dividia o movimento em natural (pela 'natureza' do objeto, rumo ao seu lugar próprio) e <mark>violento</mark>, imposto de fora por empurrões e puxões.",
+      "src": "Hewitt, §2.1"
+    },
+    {
+      "k": "O erro de 2.000 anos",
+      "h": "Cair conforme o peso",
+      "p": "Aristóteles afirmava que os corpos caem com rapidez <mark>proporcional ao peso</mark>. A ideia foi aceita como verdade por quase dois milênios por causa de sua autoridade.",
+      "src": "Hewitt, §2.1"
+    },
+    {
+      "k": "Copérnico",
+      "h": "A Terra que se move",
+      "p": "Propôs que a Terra circunda o Sol, mas <mark>calou-se por anos</mark> temendo perseguição — e também por não conciliar uma Terra móvel com as ideias vigentes de movimento.",
+      "src": "Hewitt, §2.1"
+    },
+    {
+      "k": "Torre de Pisa",
+      "h": "Caem juntos",
+      "p": "Galileu mostrou que uma pedra duas vezes mais pesada <mark>não cai duas vezes mais rápido</mark>: fora o pequeno efeito do ar, chegam juntas ao chão.",
+      "src": "Hewitt, §2.2"
+    },
+    {
+      "k": "Planos inclinados",
+      "h": "A bola busca a mesma altura",
+      "p": "Solta numa rampa, a bola sobe a outra até quase a altura inicial. Diminuindo a inclinação ela vai mais longe — num plano horizontal, <mark>iria para sempre</mark>.",
+      "src": "Hewitt, §2.2"
+    },
+    {
+      "k": "Conceito central",
+      "h": "Inércia não é força",
+      "p": "É a <mark>propriedade da matéria de resistir a mudanças no movimento</mark>. Aristóteles não a reconheceu porque nunca imaginou o movimento sem atrito.",
+      "src": "Hewitt, Termos-chave"
+    },
+    {
+      "k": "Primeira lei",
+      "h": "A palavra-chave é permanece",
+      "p": "Todo objeto <mark>permanece</mark> em repouso ou em movimento retilíneo uniforme, a menos que uma força resultante não nula seja exercida sobre ele.",
+      "src": "Hewitt, §2.3 (Principia)"
+    },
+    {
+      "k": "Força",
+      "h": "Empurrão ou puxão",
+      "p": "Pode ser gravitacional, elétrica, magnética ou muscular. Quando há várias, o que importa é a <mark>força resultante</mark> — a soma vetorial de todas elas.",
+      "src": "Hewitt, §2.4"
+    },
+    {
+      "k": "Vetor × escalar",
+      "h": "Quando a direção importa",
+      "p": "Força, velocidade e aceleração precisam de módulo <mark>e orientação</mark>: são vetoriais. Massa, volume e rapidez se descrevem só pelo módulo: são escalares.",
+      "src": "Hewitt, §2.4"
+    },
+    {
+      "k": "Regra do paralelogramo",
+      "h": "A corda mais esticada",
+      "p": "Nellie pendurada no varal: as tensões somam-se vetorialmente para anular o peso. O ramo <mark>mais próximo da horizontal</mark> fica com a tensão maior — e é o que rompe.",
+      "src": "Hewitt, §2.4"
+    },
+    {
+      "k": "Equilíbrio",
+      "h": "A condição é ΣF = 0",
+      "p": "Quando a força resultante é nula, o corpo está em <mark>equilíbrio mecânico</mark>. Num andaime, a soma das tensões para cima iguala a soma dos pesos.",
+      "src": "Hewitt, §2.5"
+    },
+    {
+      "k": "Força de apoio",
+      "h": "A mesa empurra de volta",
+      "p": "O livro comprime os átomos da mesa, que agem como <mark>minúsculas molas</mark> e empurram para cima. Essa força normal iguala o peso do livro.",
+      "src": "Hewitt, §2.6"
+    },
+    {
+      "k": "Equilíbrio dinâmico",
+      "h": "Parado ou uniforme, dá no mesmo",
+      "p": "Equilíbrio é <mark>ausência de mudança</mark>, não ausência de movimento: uma bola de boliche rolando em linha reta com rapidez constante também tem ΣF = 0.",
+      "src": "Hewitt, §2.7"
+    },
+    {
+      "k": "Uma força só",
+      "h": "Nunca basta para equilibrar",
+      "p": "Sob a ação de uma <mark>única força</mark> um objeto jamais está em equilíbrio — a resultante não poderia ser nula. Só com duas ou mais há equilíbrio.",
+      "src": "Hewitt, §2.7"
+    },
+    {
+      "k": "O movimento da Terra",
+      "h": "O pássaro e a minhoca",
+      "p": "Argumentavam que a 30 km/s a Terra levaria a minhoca embora. Mas árvore, pássaro, minhoca e ar <mark>viajam juntos a 30 km/s</mark> — inércia em ação.",
+      "src": "Hewitt, §2.8"
+    },
+    {
+      "q": true,
+      "k": "Questão de revisão",
+      "h": "Um avião a jato voa em linha reta horizontal com rapidez constante. Comparando o empuxo dos motores com a força de resistência do ar:",
+      "opts": [
+        [
+          "A",
+          "O empuxo é maior, por isso ele avança"
+        ],
+        [
+          "B",
+          "As duas têm o mesmo módulo"
+        ],
+        [
+          "C",
+          "A resistência do ar é maior"
+        ],
+        [
+          "D",
+          "Depende da altitude do voo"
+        ]
+      ],
+      "correct": 1,
+      "explain": "Rapidez constante em linha reta é <b>equilíbrio dinâmico</b>: ΣF = 0. Logo empuxo e resistência do ar se cancelam e têm o mesmo módulo — o avião não ganha nem perde rapidez."
+    }
+  ]
+}

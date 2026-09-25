@@ -1,0 +1,158 @@
+{
+  "user": "fisica.conceitual",
+  "av": "⌒",
+  "avc": "#30d158",
+  "disp": "Cap. 10 — Projéteis e Satélites",
+  "time": "há 3 dias",
+  "likes": 1768,
+  "likedBy": "jpl.curiosity",
+  "comments": 159,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 10: por que um satélite é só um projétil que cai rápido demais para acertar a Terra — e por que a altitude não tem nada a ver com fugir da gravidade. Deslize 👉",
+  "slides": [
+    {
+      "cover": true,
+      "tag": "Carrossel de estudo",
+      "h2": "Projéteis e Satélites",
+      "n": "Hewitt, cap. 10 · 19 cards + questão"
+    },
+    {
+      "k": "Chave do capítulo",
+      "h": "Componentes independentes",
+      "p": "Todo o mistério dos projéteis se dissolve ao separar a velocidade: o <mark>horizontal e o vertical não se afetam</mark>. Juntos produzem a curva.",
+      "src": "Hewitt, §10.1"
+    },
+    {
+      "k": "Os dois movimentos",
+      "h": "Constante e acelerado",
+      "p": "Na horizontal não há força, então a velocidade é <mark>constante</mark>, como uma bola de boliche. Na vertical vale a queda livre, com g.",
+      "src": "Hewitt, §10.1"
+    },
+    {
+      "k": "Forma da trajetória",
+      "h": "É uma parábola",
+      "p": "Aceleração só na vertical e velocidade constante na horizontal produzem uma <mark>parábola</mark> — desde que a resistência do ar seja desprezível.",
+      "src": "Hewitt, §10.1"
+    },
+    {
+      "k": "Experimento clássico",
+      "h": "As duas balas chegam juntas",
+      "p": "Uma bala disparada horizontalmente e outra simplesmente solta da mesma altura <mark>caem a mesma distância vertical</mark> — e tocam o chão no mesmo instante.",
+      "src": "Hewitt, §10.1"
+    },
+    {
+      "k": "Regra prática",
+      "h": "5t² abaixo da reta",
+      "p": "Depois de t segundos, o projétil está <mark>5t² metros abaixo</mark> de onde estaria sem gravidade. Impressionante: essa distância não depende do ângulo de lançamento.",
+      "src": "Hewitt, §10.1"
+    },
+    {
+      "k": "No topo",
+      "h": "Sobra só o horizontal",
+      "p": "No zênite o componente vertical é nulo, então a rapidez ali é <mark>igual ao componente horizontal</mark> — e é a menor de toda a trajetória.",
+      "src": "Hewitt, §10.1"
+    },
+    {
+      "k": "Alcance",
+      "h": "Ângulos que somam 90°",
+      "p": "Lançados com a mesma rapidez, <mark>30° e 60° dão o mesmo alcance</mark>. O máximo fica em 45° — desprezando o ar.",
+      "src": "Hewitt, §10.1"
+    },
+    {
+      "k": "Na vida real",
+      "h": "Bem menos que 45°",
+      "p": "Com resistência do ar, a bola de beisebol vai mais longe saindo entre <mark>25° e 34°</mark>. Para dardo e peso, o ângulo ótimo também cai — mas por outro motivo: o lançamento é mais lento na vertical.",
+      "src": "Hewitt, §10.1"
+    },
+    {
+      "k": "Dado geométrico",
+      "h": "5 metros por 8 km",
+      "p": "A superfície da Terra <mark>desce 5 m a cada 8 km</mark> de tangente. Esse único número é a chave de todo o movimento de satélites.",
+      "src": "Hewitt, §10.2"
+    },
+    {
+      "k": "A grande ideia",
+      "h": "Cair em volta, não sobre",
+      "p": "Como qualquer projétil cai 5 m no primeiro segundo, quem percorrer <mark>8 km nesse mesmo segundo</mark> acompanha a curvatura e nunca chega ao chão. São 8 km/s — 29.000 km/h.",
+      "src": "Hewitt, §10.2"
+    },
+    {
+      "k": "Falsa concepção",
+      "h": "A altitude é pelo ar",
+      "p": "Satélites ficam acima de 150 km para <mark>fugir da resistência do ar, não da gravidade</mark>. A 200 km, a gravidade é quase igual à da superfície.",
+      "src": "Hewitt, §10.2"
+    },
+    {
+      "k": "Montanha de Newton",
+      "h": "Do tiro curto à órbita",
+      "p": "Newton imaginou balas disparadas cada vez mais rápido do alto de uma montanha: a trajetória fica <mark>menos curva até fechar num círculo</mark>. Estaria em órbita.",
+      "src": "Hewitt, §10.2"
+    },
+    {
+      "k": "Órbita circular",
+      "h": "A gravidade não acelera",
+      "p": "Movendo-se sempre <mark>perpendicular à força</mark>, o satélite não ganha nem perde rapidez: a gravidade muda só a direção. Queda livre a rapidez constante.",
+      "src": "Hewitt, §10.3"
+    },
+    {
+      "k": "Períodos",
+      "h": "Mais alto, mais lento",
+      "p": "Em órbita baixa o período é cerca de <mark>90 minutos</mark>. A 5,5 raios terrestres de altitude são 24 h — o satélite fica parado sobre o mesmo ponto. A Lua leva 27,3 dias.",
+      "src": "Hewitt, §10.3"
+    },
+    {
+      "k": "Órbita elíptica",
+      "h": "Passar de 8 km/s",
+      "p": "Um pouco mais rápido e o satélite ultrapassa o círculo: sobe contra a gravidade <mark>perdendo rapidez</mark>, e recupera tudo ao cair de volta. Círculo é uma elipse de focos coincidentes.",
+      "src": "Hewitt, §10.4"
+    },
+    {
+      "k": "Kepler",
+      "h": "As três leis",
+      "p": "1) A órbita é uma elipse com o Sol num foco. 2) O raio varre <mark>áreas iguais em tempos iguais</mark>. 3) T² é proporcional a r³ para todos os planetas.",
+      "src": "Hewitt, §10.5"
+    },
+    {
+      "k": "Limite de Kepler",
+      "h": "Faltava-lhe a inércia",
+      "p": "Kepler achou as leis mas <mark>não viu que um satélite é só um projétil</mark>: como Aristóteles, supunha a força na direção do movimento. Newton uniu Kepler e Galileu.",
+      "src": "Hewitt, §10.5"
+    },
+    {
+      "k": "Energia",
+      "h": "EC + EP é constante",
+      "p": "Na elipse, a EP é máxima no apogeu e a EC é máxima no perigeu — mas a <mark>soma das duas é a mesma em toda a órbita</mark>.",
+      "src": "Hewitt, §10.6"
+    },
+    {
+      "k": "Rapidez de escape",
+      "h": "11,2 km/s da Terra",
+      "p": "Equivale a <mark>62 MJ por quilograma</mark>. Acima disso o projétil vai desacelerando para sempre, mas nunca para. Para escapar do Sol daqui, seriam 42,5 km/s.",
+      "src": "Hewitt, §10.7"
+    },
+    {
+      "q": true,
+      "k": "Questão de revisão",
+      "h": "Satélites e ônibus espaciais são colocados em órbita a altitudes de 150 km ou mais. O motivo principal dessa altitude é:",
+      "opts": [
+        [
+          "A",
+          "Escapar da atração gravitacional da Terra"
+        ],
+        [
+          "B",
+          "Ficar acima da atmosfera, praticamente livre da resistência do ar"
+        ],
+        [
+          "C",
+          "Reduzir o peso da carga lançada"
+        ],
+        [
+          "D",
+          "Poder atingir a velocidade de escape"
+        ]
+      ],
+      "correct": 1,
+      "explain": "A 200 km de altura a gravidade é <b>quase tão intensa quanto na superfície</b> — e é justamente ela que curva a trajetória e mantém o satélite em órbita. A altitude serve para fugir do arraste do ar; sem gravidade, o satélite sairia em linha reta."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "user": "fisica.conceitual",
+  "av": "⇄",
+  "avc": "#5e5ce6",
+  "disp": "Cap. 5 — Terceira Lei de Newton",
+  "time": "há 1 dia",
+  "likes": 1388,
+  "likedBy": "acao.reacao",
+  "comments": 121,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 5: você não pode tocar sem ser tocado. Pares ação-reação, por que eles não se cancelam e como um foguete anda sem ar para empurrar. Deslize 👉",
+  "slides": [
+    {"cover": true, "tag": "Carrossel de estudo", "h2": "Terceira Lei de Newton", "n": "Hewitt, cap. 5 · 15 cards + questão"},
+    {"k": "Ponto de partida", "h": "Força é interação", "p": "Nenhum empurrão ocorre sozinho. Você <mark>não consegue empurrar uma parede</mark> a menos que ela o empurre de volta — seus dedos curvados são a prova.", "src": "Hewitt, §5.1"},
+    {"k": "Terceira lei", "h": "Sempre aos pares", "p": "Quando um objeto exerce força sobre outro, este exerce sobre o primeiro uma força <mark>de mesmo módulo e sentido oposto</mark>. Nenhuma das duas existe sem a outra.", "src": "Hewitt, §5.2"},
+    {"k": "Consequência", "h": "O boxeador e o lenço", "p": "O punho só exerce sobre o lenço de papel <mark>a força que o lenço consegue exercer de volta</mark> — por isso não há como golpeá-lo com força.", "src": "Hewitt, §5.1"},
+    {"k": "Nomenclatura", "h": "Ação e reação são rótulos", "p": "Newton concluiu que <mark>nenhuma das forças é privilegiada</mark>: tanto faz qual chamamos de ação. O que importa é que são partes de uma única interação.", "src": "Hewitt, §5.2"},
+    {"k": "Locomoção", "h": "A reação é que nos move", "p": "Você empurra o piso e ele o empurra; o nadador empurra a água e ela o empurra. Sem atrito — no gelo — <mark>não há como gerar a ação</mark>, e ficamos parados.", "src": "Hewitt, §5.2"},
+    {"k": "Cuidado", "h": "Ninguém 'tem' força", "p": "Força <mark>não é uma propriedade do objeto</mark> como a massa: é parte de uma interação. Um míssil acelerando tem momentum e energia, não força.", "src": "Hewitt, §5.2"},
+    {"k": "A dúvida clássica", "h": "Por que não se cancelam", "p": "Porque atuam em <mark>objetos diferentes</mark>. A maçã empurra a laranja e a laranja empurra a maçã — mas só uma dessas forças age sobre a laranja, que acelera.", "src": "Hewitt, §5.2"},
+    {"k": "Definindo o sistema", "h": "Internas somam zero", "p": "Os trilhões de forças interatômicas de uma bola de futebol são pares internos e <mark>se cancelam</mark>. Só uma força externa — o chute — acelera a bola.", "src": "Hewitt, §5.2"},
+    {"k": "Pegadinha", "h": "Dois chutes não são um par", "p": "Duas forças opostas aplicadas <mark>ao mesmo objeto</mark> não formam par ação-reação, ainda que se cancelem. Ação e reação atuam sempre em objetos diferentes.", "src": "Hewitt, §5.2"},
+    {"k": "Massas diferentes", "h": "Canhão e bala", "p": "A força na bala iguala a força no canhão, mas <mark>a = F/m</mark>: a mesma força sobre massa pequena dá aceleração grande, e sobre massa grande, pequena.", "src": "Hewitt, §5.3"},
+    {"k": "Vale para a Terra", "h": "A rua sobe até você", "p": "O objeto em queda puxa a Terra para cima com a mesma força com que é puxado. A aceleração da Terra é <mark>real, mas indetectável</mark> — sua massa é astronômica.", "src": "Hewitt, §5.3"},
+    {"k": "Falsa concepção", "h": "O foguete não empurra o ar", "p": "Ele recua das 'balas moleculares' que ejeta, como o canhão. Por isso <mark>funciona melhor acima da atmosfera</mark>, onde não há resistência do ar.", "src": "Hewitt, §5.3"},
+    {"k": "Sustentação", "h": "Empurrar ar para baixo", "p": "Hélice, asa e pássaro forçam o ar para baixo (ação) e o ar os força para cima (reação). Quando a <mark>sustentação iguala o peso</mark>, a aeronave plana.", "src": "Hewitt, §5.3"},
+    {"k": "Decomposição", "h": "Todo vetor tem componentes", "p": "Qualquer vetor pode ser substituído por <mark>dois componentes perpendiculares</mark> — um horizontal e outro vertical — cuja soma vetorial é ele mesmo.", "src": "Hewitt, §5.4"},
+    {"k": "Plano inclinado", "h": "A ladeira reduz a normal", "p": "Só o componente de mg perpendicular à superfície a pressiona, então <mark>N encolhe conforme a ladeira</mark>. O componente paralelo é que produz a aceleração.", "src": "Hewitt, §5.4"},
+    {"q": true, "k": "Questão de revisão", "h": "Um ônibus em alta velocidade colide frontalmente com um besouro. Sobre as forças de impacto e as desacelerações resultantes:",
+      "opts": [["A", "A força sobre o besouro é maior, e sua desaceleração também"], ["B", "As forças têm o mesmo módulo, mas a desaceleração do besouro é muito maior"], ["C", "Forças e desacelerações são iguais para os dois"], ["D", "A força sobre o ônibus é maior porque ele tem mais massa"]],
+      "correct": 1,
+      "explain": "Ação e reação formam um par: as <b>forças têm exatamente o mesmo módulo</b>. As acelerações é que diferem, porque a = F/m — a massa minúscula do besouro produz uma desaceleração enorme, enquanto a do ônibus é imperceptível."}
+  ]
+}

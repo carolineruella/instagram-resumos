@@ -1,0 +1,164 @@
+{
+  "user": "fisica.conceitual",
+  "av": "≈",
+  "avc": "#64d2ff",
+  "disp": "Cap. 13 — Líquidos",
+  "time": "há 5 dias",
+  "likes": 1583,
+  "likedBy": "arquimedes.eureka",
+  "comments": 137,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 13: pressão, empuxo e Arquimedes. Por que um navio de ferro flutua, por que as montanhas são mais fundas que altas e o erro mais comum sobre empuxo. Deslize 👉",
+  "slides": [
+    {
+      "cover": true,
+      "tag": "Carrossel de estudo",
+      "h2": "Líquidos",
+      "n": "Hewitt, cap. 13 · 20 cards + questão"
+    },
+    {
+      "k": "Pressão",
+      "h": "Força dividida pela área",
+      "p": "Dois blocos idênticos têm o mesmo peso, mas o que está <mark>de pé exerce mais pressão</mark> — a mesma força espalhada por menos área. Unidade: pascal (Pa).",
+      "src": "Hewitt, §13.1"
+    },
+    {
+      "k": "Demonstração",
+      "h": "A cama de pregos",
+      "p": "Dá para deitar sem se ferir porque o peso se distribui por <mark>centenas de pontas</mark>: a força total é a mesma, mas a pressão em cada ponta fica pequena.",
+      "src": "Hewitt, §13.1"
+    },
+    {
+      "k": "Pressão em líquido",
+      "h": "Peso específico × profundidade",
+      "p": "Só duas coisas importam: a <mark>densidade do líquido e a profundidade</mark>. Duas vezes mais fundo, duas vezes mais pressão.",
+      "src": "Hewitt, §13.2"
+    },
+    {
+      "k": "Contraintuitivo",
+      "h": "O volume não conta",
+      "p": "A pressão média sobre uma represa depende da <mark>profundidade média, não do volume</mark> represado. Um lago extenso e raso pressiona menos que um açude pequeno e fundo.",
+      "src": "Hewitt, §13.2"
+    },
+    {
+      "k": "Consequência",
+      "h": "A água busca seu nível",
+      "p": "A pressão no fundo só depende da altura, então recipientes ligados <mark>igualam seus níveis</mark>. Os romanos não confiavam nisso e ergueram aquedutos desnecessariamente elaborados.",
+      "src": "Hewitt, §13.2"
+    },
+    {
+      "k": "Direções",
+      "h": "Pressão em todos os lados",
+      "p": "A pressão atua igualmente em todas as direções — para os lados e para cima também. Já a <mark>força resultante é perpendicular</mark> à superfície.",
+      "src": "Hewitt, §13.2"
+    },
+    {
+      "k": "Empuxo",
+      "h": "Peso que parece desaparecer",
+      "p": "A pedra submersa é fácil de erguer e fica pesada ao sair da água. A <mark>força de empuxo</mark> aponta para cima, contra a gravidade.",
+      "src": "Hewitt, §13.3"
+    },
+    {
+      "k": "A causa",
+      "h": "Diferença de pressão",
+      "p": "As componentes horizontais se cancelam, mas o fundo do objeto está <mark>mais fundo que o topo</mark> — e portanto sob pressão maior. Sobra uma resultante para cima.",
+      "src": "Hewitt, §13.3"
+    },
+    {
+      "k": "Volume deslocado",
+      "h": "Igual ao do objeto",
+      "p": "Um objeto totalmente submerso desloca <mark>exatamente seu próprio volume</mark> de líquido — o que dá um jeito prático de medir volumes de forma irregular.",
+      "src": "Hewitt, §13.3"
+    },
+    {
+      "k": "Arquimedes",
+      "h": "O princípio",
+      "p": "Um corpo imerso sofre empuxo para cima <mark>igual ao peso do fluido que desloca</mark>. Vale para líquidos e gases, e para corpos parcial ou totalmente submersos.",
+      "src": "Hewitt, §13.4"
+    },
+    {
+      "k": "O erro mais comum",
+      "h": "Quem manda é o volume",
+      "p": "O empuxo depende do <mark>volume</mark> submerso, nunca do peso do objeto. Um litro de chumbo submerso recebe o empuxo de um litro de água: 10 N.",
+      "src": "Hewitt, §13.5"
+    },
+    {
+      "k": "Afundar ou flutuar",
+      "h": "Aí sim entra o peso",
+      "p": "Compara-se empuxo e peso, o que equivale a comparar densidades: <mark>mais denso que o fluido afunda</mark>, menos denso flutua, igual fica onde está.",
+      "src": "Hewitt, §13.5"
+    },
+    {
+      "k": "Na natureza",
+      "h": "Três estratégias",
+      "p": "O peixe ajusta o <mark>volume</mark> com a bolsa de ar; o submarino ajusta o peso com tanques de lastro; e o crocodilo engole pedras para nadar mais submerso.",
+      "src": "Hewitt, §13.5"
+    },
+    {
+      "k": "Flutuação",
+      "h": "Desloca o próprio peso",
+      "p": "Um objeto flutuante desloca um peso de fluido <mark>igual ao seu próprio peso</mark>. Um navio de 10.000 toneladas precisa ser grande o bastante para deslocar 10.000 toneladas de água.",
+      "src": "Hewitt, §13.6"
+    },
+    {
+      "k": "Navio de ferro",
+      "h": "A forma resolve",
+      "p": "O bloco maciço desloca só 1/8 do seu peso e afunda. Moldado em <mark>tigela</mark>, o mesmo ferro desloca muito mais água — e para de afundar quando o empuxo iguala seu peso.",
+      "src": "Hewitt, §13.6"
+    },
+    {
+      "k": "Geologia",
+      "h": "Montanhas flutuantes",
+      "p": "O gelo tem 0,9 da densidade da água, então 90% do iceberg fica submerso. A crosta tem 0,85 da densidade do manto: as montanhas são <mark>mais fundas que altas</mark>.",
+      "src": "Hewitt, §13.6"
+    },
+    {
+      "k": "Pascal",
+      "h": "A pressão se transmite inteira",
+      "p": "Uma variação de pressão num ponto de um fluido em repouso é transmitida <mark>integralmente a todos os outros pontos</mark>.",
+      "src": "Hewitt, §13.7"
+    },
+    {
+      "k": "Prensa hidráulica",
+      "h": "Força, nunca energia",
+      "p": "Pistão 50 vezes maior sustenta 50 vezes mais carga — mas <mark>sobe 50 vezes menos</mark>. Como a alavanca, multiplica força à custa da distância.",
+      "src": "Hewitt, §13.7"
+    },
+    {
+      "k": "Tensão superficial",
+      "h": "Por que a gota é esférica",
+      "p": "A superfície tende a se contrair e buscar a <mark>menor área possível</mark> — e a esfera é a forma de menor área para um dado volume.",
+      "src": "Hewitt, §13.8"
+    },
+    {
+      "k": "A causa",
+      "h": "Atração desequilibrada",
+      "p": "A molécula do interior é puxada igualmente em todas as direções; a da superfície <mark>não tem ninguém acima</mark> para puxá-la. O saldo aponta para dentro.",
+      "src": "Hewitt, §13.8"
+    },
+    {
+      "q": true,
+      "k": "Questão de revisão",
+      "h": "Dois blocos sólidos de tamanhos idênticos são submersos em água: um de chumbo e outro de alumínio. A força de empuxo é:",
+      "opts": [
+        [
+          "A",
+          "Maior sobre o de chumbo, que é mais pesado"
+        ],
+        [
+          "B",
+          "Igual sobre os dois"
+        ],
+        [
+          "C",
+          "Maior sobre o de alumínio, que é menos denso"
+        ],
+        [
+          "D",
+          "Nula sobre o de chumbo, porque ele afunda"
+        ]
+      ],
+      "correct": 1,
+      "explain": "O empuxo é igual ao peso do <b>volume de fluido deslocado</b> — e blocos de tamanhos iguais deslocam o mesmo volume de água. O peso do objeto submerso decide se ele afunda, não o quanto de empuxo ele recebe."
+    }
+  ]
+}

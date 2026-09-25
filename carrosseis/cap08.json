@@ -1,0 +1,164 @@
+{
+  "user": "fisica.conceitual",
+  "av": "↻",
+  "avc": "#0a84ff",
+  "disp": "Cap. 8 — Movimento de Rotação",
+  "time": "há 2 dias",
+  "likes": 1704,
+  "likedBy": "roda.de.oleiro",
+  "comments": 148,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 8: rapidez tangencial e angular, torque, centro de gravidade e a força centrífuga que não existe. Deslize 👉",
+  "slides": [
+    {
+      "cover": true,
+      "tag": "Carrossel de estudo",
+      "h2": "Movimento de Rotação",
+      "n": "Hewitt, cap. 8 · 20 cards + questão"
+    },
+    {
+      "k": "Duas rapidezes",
+      "h": "Tangencial × angular",
+      "p": "Num carrossel rígido, <mark>todos giram com a mesma rapidez angular</mark> (mesmas RPM) — mas quem está na borda tem rapidez tangencial maior, porque percorre mais caminho.",
+      "src": "Hewitt, §8.1"
+    },
+    {
+      "k": "Relação",
+      "h": "v ~ rω",
+      "p": "A rapidez tangencial é proporcional <mark>à distância ao eixo e à rapidez angular</mark>. Duas vezes mais longe do centro, duas vezes mais rápido.",
+      "src": "Hewitt, §8.1"
+    },
+    {
+      "k": "Aplicação",
+      "h": "Por que o trem não descarrila",
+      "p": "Não é o friso: as rodas são levemente <mark>cônicas</mark>. Na curva, a roda externa rola pela parte larga e a interna pela estreita — e o par se autocentraliza.",
+      "src": "Hewitt, §8.1"
+    },
+    {
+      "k": "Inércia rotacional",
+      "h": "Onde está a massa importa",
+      "p": "Resistência a mudar o estado de rotação. Diferente da inércia comum, depende da <mark>distribuição da massa em torno do eixo</mark> — massa longe do eixo, mais inércia.",
+      "src": "Hewitt, §8.2"
+    },
+    {
+      "k": "Aplicação",
+      "h": "O bastão do equilibrista",
+      "p": "Massa longe do eixo dá ao bastão muita inércia rotacional: ele <mark>resiste a girar</mark> e dá ao equilibrista o tempo de se reequilibrar. Quanto mais comprido, melhor.",
+      "src": "Hewitt, §8.2"
+    },
+    {
+      "k": "Contraintuitivo",
+      "h": "O cilindro vence o aro",
+      "p": "Descendo a mesma rampa, <mark>qualquer cilindro sólido chega antes de qualquer aro</mark> — não importam massas nem diâmetros. O aro tem mais 'letargia por massa'.",
+      "src": "Hewitt, §8.2"
+    },
+    {
+      "k": "Torque",
+      "h": "A contraparte da força",
+      "p": "Força muda o movimento; torque muda o estado de rotação. <mark>Torque = braço de alavanca × força</mark>.",
+      "src": "Hewitt, §8.3"
+    },
+    {
+      "k": "Torque",
+      "h": "A gangorra desigual",
+      "p": "Crianças de pesos diferentes se equilibram porque o que conta é o torque: <mark>500 N × 1,5 m = 250 N × 3 m</mark>. Torque resultante nulo, nenhuma rotação.",
+      "src": "Hewitt, §8.3"
+    },
+    {
+      "k": "Detalhe fino",
+      "h": "Braço é a perpendicular",
+      "p": "O braço de alavanca é a <mark>distância perpendicular</mark> entre o eixo e a linha de ação da força. Por isso a chave de boca rende mais puxada em ângulo reto.",
+      "src": "Hewitt, §8.3"
+    },
+    {
+      "k": "Equilíbrio",
+      "h": "Duas condições, não uma",
+      "p": "Além de ΣF = 0, o equilíbrio mecânico exige <mark>torque resultante nulo</mark> (Στ = 0). Quem está em equilíbrio não acelera nem linearmente nem em rotação.",
+      "src": "Hewitt, §8.3"
+    },
+    {
+      "k": "Centro de massa",
+      "h": "A posição média da massa",
+      "p": "Num corpo simétrico coincide com o centro geométrico. Quando o peso entra na conta, chamamos de <mark>centro de gravidade</mark> — na prática, o mesmo ponto.",
+      "src": "Hewitt, §8.4"
+    },
+    {
+      "k": "Propriedade notável",
+      "h": "O CM segue a parábola",
+      "p": "O bastão atirado cambaleia, mas seu centro de massa descreve uma <mark>parábola suave</mark>. Uma bala que explode: o CG dos fragmentos segue a trajetória original.",
+      "src": "Hewitt, §8.4"
+    },
+    {
+      "k": "Curiosidade",
+      "h": "Pode não haver massa lá",
+      "p": "O CG de uma rosca está <mark>no centro do furo</mark>; o de um bumerangue, fora do material. E o da atmosfera terrestre fica no centro da Terra.",
+      "src": "Hewitt, §8.4"
+    },
+    {
+      "k": "Tombamento",
+      "h": "Quando o CG sai da base",
+      "p": "O objeto tomba quando seu centro de gravidade <mark>ultrapassa a base de apoio</mark> — daí o torque desequilibrado o vira. Base larga e CG baixo dão estabilidade.",
+      "src": "Hewitt, §8.4"
+    },
+    {
+      "k": "Força centrípeta",
+      "h": "F = mv²/r",
+      "p": "Qualquer força <mark>orientada para o centro</mark>. Não é uma força básica da natureza: é o nome do papel que a tensão, a gravidade ou o atrito desempenham.",
+      "src": "Hewitt, §8.5"
+    },
+    {
+      "k": "A grande confusão",
+      "h": "Centrífuga é fictícia",
+      "p": "Se o barbante rompe, a lata não sai radialmente: segue <mark>tangente</mark> à curva. Nada a empurra para fora — o que existe é inércia.",
+      "src": "Hewitt, §8.6"
+    },
+    {
+      "k": "Sistema girante",
+      "h": "Uma força sem contraparte",
+      "p": "Dentro do sistema que gira, a centrífuga parece tão real quanto a gravidade — mas <mark>não tem par ação-reação</mark>. Não há nada lá fora puxando.",
+      "src": "Hewitt, §8.6"
+    },
+    {
+      "k": "Aplicação",
+      "h": "Gravidade simulada",
+      "p": "Um hábitat espacial que gira pressiona os ocupantes contra a parede interna. Para 1 g a <mark>1 RPM</mark>, a estrutura precisaria de uns 2 km de diâmetro.",
+      "src": "Hewitt, §8.6"
+    },
+    {
+      "k": "Momentum angular",
+      "h": "Inércia rotacional × ω",
+      "p": "A 'inércia em rotação'. Para um corpo pequeno frente ao raio, vale <mark>mvr</mark>. Só um torque externo resultante é capaz de alterá-lo.",
+      "src": "Hewitt, §8.7"
+    },
+    {
+      "k": "Conservação",
+      "h": "A patinadora que acelera",
+      "p": "Sem torque externo, I × ω é constante: recolhendo os braços ela <mark>reduz I e a rapidez angular dispara</mark>. Pelo mesmo princípio, a Lua se afasta 1/4 cm por rotação da Terra.",
+      "src": "Hewitt, §8.8"
+    },
+    {
+      "q": true,
+      "k": "Questão de revisão",
+      "h": "Você gira uma lata presa a um barbante numa trajetória circular horizontal e o barbante rompe. Desprezando a gravidade, a lata:",
+      "opts": [
+        [
+          "A",
+          "Voa radialmente para fora, afastando-se do centro"
+        ],
+        [
+          "B",
+          "Segue em linha reta, tangente à trajetória circular"
+        ],
+        [
+          "C",
+          "Mantém a trajetória circular por inércia"
+        ],
+        [
+          "D",
+          "Para imediatamente onde o barbante rompeu"
+        ]
+      ],
+      "correct": 1,
+      "explain": "Não existe força centrífuga real empurrando a lata para fora. Sem o puxão do barbante não sobra força alguma, então vale a primeira lei de Newton: a lata segue <b>tangente</b> à curva, pela inércia."
+    }
+  ]
+}

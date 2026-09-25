@@ -1,0 +1,164 @@
+{
+  "user": "fisica.conceitual",
+  "av": "g",
+  "avc": "#ff375f",
+  "disp": "Cap. 9 — Gravidade",
+  "time": "há 3 dias",
+  "likes": 1935,
+  "likedBy": "cavendish.lab",
+  "comments": 171,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 9: a lei que vale da maçã à galáxia. Como se pesou a Terra, por que há duas marés por dia e por que o Sol quase não as faz. Deslize 👉",
+  "slides": [
+    {
+      "cover": true,
+      "tag": "Carrossel de estudo",
+      "h2": "Gravidade",
+      "n": "Hewitt, cap. 9 · 20 cards + questão"
+    },
+    {
+      "k": "Síntese newtoniana",
+      "h": "Uma lei só para tudo",
+      "p": "A grande sacada foi perceber que a força que puxa a maçã é <mark>a mesma que mantém a Lua</mark> — rompendo com a ideia de leis separadas para a Terra e para os céus.",
+      "src": "Hewitt, §9.1"
+    },
+    {
+      "k": "A lei",
+      "h": "Massas e distância",
+      "p": "Todo corpo atrai qualquer outro com força <mark>proporcional ao produto das massas</mark> e inversamente proporcional ao quadrado da distância entre seus centros.",
+      "src": "Hewitt, §9.1"
+    },
+    {
+      "k": "Insight-chave",
+      "h": "A Lua cai em volta",
+      "p": "A Lua <mark>cai</mark> — sai da reta que seguiria sem gravidade. Sua velocidade tangencial é que a faz cair em volta da Terra, em vez de sobre ela.",
+      "src": "Hewitt, §9.1"
+    },
+    {
+      "k": "Rigor científico",
+      "h": "Vinte anos na gaveta",
+      "p": "Os primeiros cálculos de Newton <mark>não fecharam</mark>, e ele guardou os papéis por duas décadas — fatos prevalecem sobre hipóteses bonitas. Só publicou após corrigir os dados.",
+      "src": "Hewitt, §9.1"
+    },
+    {
+      "k": "A constante G",
+      "h": "Gravidade é fraquíssima",
+      "p": "G = 6,67 × 10⁻¹¹ N·m²/kg². Valor minúsculo: a gravidade é a <mark>mais fraca das quatro forças fundamentais</mark>. Só a sentimos por causa da enormidade da Terra.",
+      "src": "Hewitt, §9.2"
+    },
+    {
+      "k": "Experimento",
+      "h": "Pesando o planeta",
+      "p": "Cavendish mediu G com uma balança de torção em 1798. Com G na mão, a própria equação entrega a <mark>massa da Terra: 6 × 10²⁴ kg</mark>.",
+      "src": "Hewitt, §9.2"
+    },
+    {
+      "k": "Inverso do quadrado",
+      "h": "A pistola de tinta",
+      "p": "A tinta que cobre 1 mm de espessura a 1 m se espalha por <mark>quatro vezes a área</mark> a 2 m — logo 1/4 da espessura. Vale para gravidade, luz, som e radiação.",
+      "src": "Hewitt, §9.3"
+    },
+    {
+      "k": "Cuidado",
+      "h": "A distância é entre centros",
+      "p": "Uma árvore duas vezes mais alta <mark>não reduz o peso da maçã a 1/4</mark>: ela teria de ter a altura do raio da Terra. Para perder 1% do peso, suba 32 km.",
+      "src": "Hewitt, §9.3"
+    },
+    {
+      "k": "Peso",
+      "h": "A força sobre o apoio",
+      "p": "Definição ampla: peso é a <mark>força que você exerce sobre o piso que o sustenta</mark>. Num elevador acelerando, ele muda — ainda que mg não mude.",
+      "src": "Hewitt, §9.4"
+    },
+    {
+      "k": "A confusão clássica",
+      "h": "Sem peso, com gravidade",
+      "p": "O astronauta em órbita é imponderável não por falta de gravidade, mas por <mark>falta de força de sustentação</mark>: ele está em queda livre contínua.",
+      "src": "Hewitt, §9.4"
+    },
+    {
+      "k": "Marés",
+      "h": "Diferença, não intensidade",
+      "p": "As marés vêm da <mark>diferença</mark> entre a atração lunar nos lados próximo e distante da Terra — como uma bola de gelatina puxada mais de um lado, que se alonga.",
+      "src": "Hewitt, §9.5"
+    },
+    {
+      "k": "Marés",
+      "h": "Dois bulbos, duas marés",
+      "p": "O alongamento cria bulbos <mark>em lados opostos</mark>. A Terra gira sob eles, então cada ponto passa por dois — daí duas marés altas por dia, a cada 24 h e 50 min.",
+      "src": "Hewitt, §9.5"
+    },
+    {
+      "k": "Contraintuitivo",
+      "h": "O Sol atrai 180× mais",
+      "p": "E ainda assim faz menos da metade da maré lunar: tão longe, ele atrai <mark>quase igualmente os dois lados</mark> da Terra, e a diferença fica pequena.",
+      "src": "Hewitt, §9.5"
+    },
+    {
+      "k": "Tipos de maré",
+      "h": "Sizígia e quadratura",
+      "p": "Alinhados Sol-Terra-Lua (lua nova ou cheia), os efeitos somam: <mark>marés de sizígia</mark>, as mais extremas. Em quadratura (meia-lua), eles se cancelam em parte.",
+      "src": "Hewitt, §9.5"
+    },
+    {
+      "k": "Escala importa",
+      "h": "Nem lago, nem corpo",
+      "p": "Sem partes significativamente mais próximas da Lua, não há maré. Um <mark>melão de 1 kg acima da sua cabeça</mark> produz ~200 vezes mais efeito de maré em você que a Lua.",
+      "src": "Hewitt, §9.5"
+    },
+    {
+      "k": "Campos",
+      "h": "Linhas de campo",
+      "p": "O espaço em torno de uma massa fica alterado: é o <mark>campo gravitacional</mark>. Onde as linhas se adensam, o campo é mais intenso — e ele obedece ao inverso do quadrado.",
+      "src": "Hewitt, §9.6"
+    },
+    {
+      "k": "Física imaginativa",
+      "h": "Zero no centro",
+      "p": "Caindo por um túnel, sua aceleração diminui porque há <mark>cada vez menos massa abaixo</mark>. No centro da Terra o campo é nulo: rapidez máxima, aceleração zero.",
+      "src": "Hewitt, §9.6"
+    },
+    {
+      "k": "Limite",
+      "h": "Gravidade não se blinda",
+      "p": "Ao contrário da força elétrica, que atrai e repele, a gravidade <mark>só atrai</mark> — então não há blindagem. Os eclipses previstos com precisão comprovam isso.",
+      "src": "Hewitt, §9.6"
+    },
+    {
+      "k": "Buracos negros",
+      "h": "Quando a escape passa de c",
+      "p": "Se o Sol encolhesse para menos de 3 km de raio sem perder massa, a <mark>velocidade de escape excederia a da luz</mark>. Nada escaparia — nem a luz.",
+      "src": "Hewitt, §9.7"
+    },
+    {
+      "k": "Triunfo da lei",
+      "h": "Netuno na ponta do lápis",
+      "p": "Desvios na órbita de Urano levaram Adams e Leverrier a <mark>calcular onde estaria um oitavo planeta</mark>. Berlim apontou o telescópio e achou Netuno na mesma noite.",
+      "src": "Hewitt, §9.8"
+    },
+    {
+      "q": true,
+      "k": "Questão de revisão",
+      "h": "O Sol atrai os oceanos da Terra com força cerca de 180 vezes maior que a Lua, mas produz marés menos da metade das lunares. A razão é que:",
+      "opts": [
+        [
+          "A",
+          "A atração solar é mais fraca por causa da distância"
+        ],
+        [
+          "B",
+          "O que gera maré é a diferença de atração entre os lados opostos da Terra, e a do Sol é pequena"
+        ],
+        [
+          "C",
+          "O Sol só provoca marés na atmosfera"
+        ],
+        [
+          "D",
+          "A Lua se move mais rápido no céu"
+        ]
+      ],
+      "correct": 1,
+      "explain": "Maré não vem da <b>intensidade</b> da atração, mas da <b>diferença</b> entre as atrações nos lados próximo e distante da Terra. O Sol está tão longe que atrai os dois lados quase igualmente; a Lua, perto, atrai bem mais o lado voltado para ela."
+    }
+  ]
+}

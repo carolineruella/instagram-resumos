@@ -1,0 +1,10 @@
+# Material de estudo: PDFs de livros comerciais não vão para o repositório
+# (tamanho e direitos autorais). Mantenha-os localmente em material/.
+material/
+
+# Python
+__pycache__/
+*.pyc
+
+# Anotação local
+repositorio git.txt

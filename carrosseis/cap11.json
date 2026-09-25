@@ -1,0 +1,164 @@
+{
+  "user": "fisica.conceitual",
+  "av": "⚛",
+  "avc": "#ff9f0a",
+  "disp": "Cap. 11 — A Natureza Atômica da Matéria",
+  "time": "há 4 dias",
+  "likes": 1652,
+  "likedBy": "feynman.fan",
+  "comments": 143,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 11: a frase que Feynman salvaria de um cataclismo. Quão pequenos e quantos são os átomos, e por que você respira átomos que já foram de outra pessoa. Deslize 👉",
+  "slides": [
+    {
+      "cover": true,
+      "tag": "Carrossel de estudo",
+      "h2": "A Natureza Atômica da Matéria",
+      "n": "Hewitt, cap. 11 · 20 cards + questão"
+    },
+    {
+      "k": "Origem da ideia",
+      "h": "Gregos contra Aristóteles",
+      "p": "No século V a.C. já se falava de um pedaço mínimo indivisível. Mas Aristóteles defendeu os <mark>quatro elementos</mark> — e sua visão durou mais de 2.000 anos.",
+      "src": "Hewitt, §11.1"
+    },
+    {
+      "k": "Retomada",
+      "h": "Dalton explica a química",
+      "p": "No início dos anos 1800, John Dalton explicou com sucesso as reações químicas <mark>supondo que a matéria fosse feita de átomos</mark> — mas sem evidência direta.",
+      "src": "Hewitt, §11.1"
+    },
+    {
+      "k": "A evidência",
+      "h": "Movimento browniano",
+      "p": "Em 1827 Brown viu grãos de pólen saltando sem parar na água. É o resultado visível das <mark>colisões com moléculas invisíveis</mark> — como um balão movido por uma torcida.",
+      "src": "Hewitt, §11.1"
+    },
+    {
+      "k": "Fecho histórico",
+      "h": "Einstein, 1905",
+      "p": "A explicação de Einstein do movimento browniano permitiu <mark>obter as massas atômicas</mark>. Só então a realidade dos átomos deixou de ser contestada.",
+      "src": "Hewitt, §11.1"
+    },
+    {
+      "k": "A frase de Feynman",
+      "h": "O que ele salvaria",
+      "p": "Se tudo fosse destruído e só uma frase pudesse passar: 'todas as coisas são feitas de átomos — <mark>partículas em movimento perpétuo</mark>, que se atraem a certa distância e se repelem quando comprimidas'.",
+      "src": "Hewitt, abertura do cap. 11"
+    },
+    {
+      "k": "Escala",
+      "h": "Átomo, maçã, Terra",
+      "p": "O diâmetro do átomo está para o da maçã como <mark>o da maçã está para o da Terra</mark>. Estamos, em tamanho, a meio caminho entre os átomos e as estrelas.",
+      "src": "Hewitt, §11.2"
+    },
+    {
+      "k": "Quantidade",
+      "h": "10²³ num dedal",
+      "p": "Um grama de água tem cerca de <mark>10²³ átomos</mark> — mais átomos num dedal de água do que gotas de água em todos os rios e lagos do mundo.",
+      "src": "Hewitt, §11.2"
+    },
+    {
+      "k": "Movimento",
+      "h": "Respiramos uns aos outros",
+      "p": "As moléculas do ar se espalham tão rápido que, em poucos anos, <mark>qualquer pessoa no mundo inalará algum átomo que você exalou</mark> hoje.",
+      "src": "Hewitt, §11.2"
+    },
+    {
+      "k": "Permanência",
+      "h": "Os átomos não têm idade",
+      "p": "Os do corpo de um bebê são tão velhos quanto os de um idoso: quase todos nasceram em <mark>estrelas que explodiram</mark> antes do Sistema Solar. Somos apenas zeladores deles.",
+      "src": "Hewitt, §11.2"
+    },
+    {
+      "k": "Por que não vemos",
+      "h": "A questão é a onda",
+      "p": "A difração impede ver detalhes <mark>menores que o comprimento de onda</mark> usado. A luz visível é grande demais para revelar um átomo — como ondas do mar diante da corrente da âncora.",
+      "src": "Hewitt, §11.3"
+    },
+    {
+      "k": "Como se vê então",
+      "h": "Elétrons em vez de luz",
+      "p": "A primeira imagem de átomos individuais (1970) usou um <mark>feixe de elétrons</mark>, cujo comprimento de onda é muito menor. Depois vieram os microscópios de tunelamento.",
+      "src": "Hewitt, §11.3"
+    },
+    {
+      "k": "Método",
+      "h": "Modelo não é retrato",
+      "p": "O átomo planetário é uma <mark>abstração que ajuda a prever</mark>, não uma fotografia. Os elétrons não orbitam como planetas — mas o modelo abriu caminho para os seguintes.",
+      "src": "Hewitt, §11.3"
+    },
+    {
+      "k": "O núcleo",
+      "h": "Densidade absurda",
+      "p": "Quase toda a massa cabe em poucos quatrilionésimos do volume. Núcleos nus empacotados numa <mark>ervilha pesariam 133 milhões de toneladas</mark>.",
+      "src": "Hewitt, §11.4"
+    },
+    {
+      "k": "Núcleons",
+      "h": "Próton e nêutron",
+      "p": "São o mesmo tipo de partícula em estados diferentes: <mark>neutro é nêutron, positivo é próton</mark>. Ambos formados por quarks, e todos os prótons são cópias perfeitas entre si.",
+      "src": "Hewitt, §11.4"
+    },
+    {
+      "k": "Vocabulário",
+      "h": "Elemento × átomo",
+      "p": "Elemento é a <mark>substância feita de um só tipo de átomo</mark>; átomo é a partícula individual. Mais de 99% da Terra vem de apenas uma dúzia de elementos.",
+      "src": "Hewitt, §11.4"
+    },
+    {
+      "k": "Tabela periódica",
+      "h": "Como um calendário",
+      "p": "Da esquerda para a direita, cada elemento ganha um próton; de cima para baixo, ganha <mark>uma camada de elétrons</mark>. À direita ficam os gases nobres, de camada externa completa.",
+      "src": "Hewitt, §11.5"
+    },
+    {
+      "k": "Tamanho atômico",
+      "h": "Quem manda é a força elétrica",
+      "p": "Mais carga no núcleo <mark>puxa os elétrons para mais perto</mark> e encolhe as camadas. Por isso o urânio, com 92 elétrons, não é muito maior que o hidrogênio.",
+      "src": "Hewitt, §11.5"
+    },
+    {
+      "k": "Isótopos",
+      "h": "Mesmo elemento, outra massa",
+      "p": "Mesmo número de prótons, <mark>número diferente de nêutrons</mark>. O número de massa é inteiro e identifica o isótopo; a massa atômica é a média ponderada e tem casas decimais.",
+      "src": "Hewitt, §11.6"
+    },
+    {
+      "k": "Composto × mistura",
+      "h": "Sódio + cloro = sal",
+      "p": "No composto surge algo novo: o sódio reage violentamente com água, o cloro é venenoso, e juntos dão um <mark>cristal inofensivo</mark>. Na mistura, nada se combina quimicamente.",
+      "src": "Hewitt, §11.7"
+    },
+    {
+      "k": "Antimatéria",
+      "h": "Aniquilação total",
+      "p": "Núcleo negativo e pósitrons no lugar dos elétrons. Ao encontrar a matéria, <mark>converte 100% da massa em energia</mark> — fissão e fusão convertem menos de 1%.",
+      "src": "Hewitt, §11.9"
+    },
+    {
+      "q": true,
+      "k": "Questão de revisão",
+      "h": "O átomo de urânio tem 92 elétrons, contra apenas 1 do hidrogênio. Comparando os diâmetros dos dois átomos:",
+      "opts": [
+        [
+          "A",
+          "O urânio é cerca de 92 vezes maior"
+        ],
+        [
+          "B",
+          "O urânio não é significativamente maior que o hidrogênio"
+        ],
+        [
+          "C",
+          "O urânio é bem menor, por ter mais nêutrons"
+        ],
+        [
+          "D",
+          "Os dois têm exatamente o mesmo diâmetro"
+        ]
+      ],
+      "correct": 1,
+      "explain": "Quanto maior a carga do núcleo, <b>mais perto ele puxa os elétrons</b>, e as camadas encolhem. O acréscimo de elétrons é compensado por esse encolhimento — quem fixa o tamanho do átomo é a força elétrica."
+    }
+  ]
+}

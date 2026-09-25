@@ -1,0 +1,31 @@
+{
+  "user": "fisica.conceitual",
+  "av": "\u2234",
+  "avc": "#0a84ff",
+  "disp": "Cap. 1 — Sobre a Ciência",
+  "time": "há 3 horas",
+  "likes": 1284,
+  "likedBy": "prof.hewitt",
+  "comments": 84,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 1: como os gregos mediram a Terra, a Lua e o Sol — e o que separa ciência de pseudociência. Deslize 👉",
+  "slides": [
+    {"cover": true, "tag": "Carrossel de estudo", "h2": "Sobre a Ciência", "n": "Hewitt, cap. 1 · 13 cards + questão"},
+    {"k": "Medições científicas", "h": "Eratóstenes mede a Terra", "p": "Por volta de 235 a.C. comparou a sombra em Alexandria com o Sol a pino em Siena: o ângulo de 7,1° é <mark>1/50 do círculo</mark>, logo a circunferência é 50 × 800 km.", "src": "Hewitt, §1.1"},
+    {"k": "Medições científicas", "h": "Aristarco mede a Lua", "p": "Num eclipse lunar a sombra da Terra é 2,5 vezes o diâmetro da Lua; corrigindo o afilamento dessa sombra, o diâmetro da Terra é <mark>3,5 vezes</mark> o lunar.", "src": "Hewitt, §1.1"},
+    {"k": "Razão-chave", "h": "A razão 1/110", "p": "Tanto para a Lua como para o Sol, a razão <mark>diâmetro/distância vale 1/110</mark> — por isso os dois parecem do mesmo tamanho no céu, subentendendo 0,5°.", "src": "Hewitt, §1.1"},
+    {"k": "Imagens de furo", "h": "Manchas de luz sob as árvores", "p": "As manchas redondas no chão são <mark>imagens do Sol</mark> projetadas pelas frestas entre as folhas; num eclipse parcial elas ficam em forma de crescente.", "src": "Hewitt, §1.1"},
+    {"k": "Matemática", "h": "A linguagem da ciência", "p": "Expressas em matemática, as ideias científicas ficam <mark>sem ambiguidade</mark> e mais fáceis de comprovar ou negar por experimento.", "src": "Hewitt, §1.1"},
+    {"k": "Método", "h": "Não existe um só método", "p": "O roteiro usual: identificar o enigma, formular uma <mark>hipótese</mark>, prever consequências, testar e enunciar a lei mais simples — mas muito avanço vem de tentativa e erro.", "src": "Hewitt, §1.2"},
+    {"k": "Atitude científica", "h": "Inquirição, integridade, humildade", "p": "O sucesso da ciência depende menos de um método do que de uma atitude: estar <mark>disposto a admitir erros</mark>.", "src": "Hewitt, §1.2"},
+    {"k": "Vocabulário", "h": "Fato, hipótese, lei, teoria", "p": "Fato é a concordância de observadores competentes; hipótese é suposição culta; testada e não negada vira lei; <mark>teoria é a síntese</mark> de um grande corpo de hipóteses.", "src": "Hewitt, Termos-chave"},
+    {"k": "Critério central", "h": "Tem de ser refutável", "p": "Uma hipótese só é científica se houver um teste capaz de <mark>provar que ela está errada</mark>. Einstein: nenhum experimento prova que estou certo; um só prova que estou errado.", "src": "Hewitt, §1.2"},
+    {"k": "Pseudociência", "h": "Falta evidência e teste", "p": "A marca da pseudociência é não ter evidência nem teste de falsidade. O rabdomante 'acerta' sempre porque <mark>há água quase em todo lugar</mark> a 100 m de profundidade.", "src": "Hewitt, §1.3"},
+    {"k": "Domínios distintos", "h": "Ciência, arte e religião", "p": "A ciência descreve a <mark>ordem natural</mark>; a arte, a interpretação e a expressão pessoal; a religião, o propósito e o significado. Domínios diferentes, não rivais.", "src": "Hewitt, §1.3"},
+    {"k": "Ciência × tecnologia", "h": "Conhecer e aplicar", "p": "A ciência reúne e organiza conhecimento; a tecnologia o aplica. Ela é uma <mark>espada de dois gumes</mark> — quem responde pelo uso são os humanos.", "src": "Hewitt, §1.4"},
+    {"k": "Por que física", "h": "A ciência fundamental", "p": "Trata de movimento, forças, energia, matéria, calor, som e luz. A <mark>física é subjacente à química</mark>, que por sua vez é subjacente à biologia.", "src": "Hewitt, §1.5"},
+    {"q": true, "k": "Questão de revisão", "h": "Segundo Hewitt, para uma hipótese ser considerada científica é indispensável que ela:",
+      "opts": [["A", "Seja aceita pela maioria dos cientistas"], ["B", "Possa ser testada quanto à sua falsidade"], ["C", "Já tenha sido provada verdadeira em laboratório"], ["D", "Esteja expressa em linguagem matemática"]],
+      "correct": 1,
+      "explain": "O critério é a <b>refutabilidade</b>: tem de existir um teste capaz de mostrar que a hipótese está errada. 'Existe vida inteligente em outros planetas' não é científica porque nenhum resultado poderia negá-la."}
+  ]
+}

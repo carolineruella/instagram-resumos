@@ -1,0 +1,164 @@
+{
+  "user": "fisica.conceitual",
+  "av": "T",
+  "avc": "#ff9f0a",
+  "disp": "Cap. 15 — Temperatura, Calor e Dilatação",
+  "time": "há 6 dias",
+  "likes": 1538,
+  "likedBy": "conde.rumford",
+  "comments": 131,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 15: a matéria não contém calor. Temperatura × energia interna, o calor específico da água que define climas, e por que o gelo flutua. Deslize 👉",
+  "slides": [
+    {
+      "cover": true,
+      "tag": "Carrossel de estudo",
+      "h2": "Temperatura, Calor e Dilatação",
+      "n": "Hewitt, cap. 15 · 20 cards + questão"
+    },
+    {
+      "k": "Temperatura",
+      "h": "Média, não total",
+      "p": "É proporcional à <mark>energia cinética translacional média</mark> das moléculas. Rotação e vibração também existem, mas não definem temperatura.",
+      "src": "Hewitt, §15.1"
+    },
+    {
+      "k": "Escalas",
+      "h": "Celsius, Fahrenheit, Kelvin",
+      "p": "A Kelvin é a dos cientistas porque parte da energia: o zero absoluto, <mark>–273 °C</mark>, é onde não há energia cinética alguma a ceder. Nela não existem números negativos.",
+      "src": "Hewitt, §15.1"
+    },
+    {
+      "k": "Distinção crucial",
+      "h": "Dois litros × um litro",
+      "p": "Dois litros de água fervendo têm o <mark>dobro da energia cinética molecular</mark> de um litro — mas exatamente a mesma temperatura, porque a média por molécula não mudou.",
+      "src": "Hewitt, §15.1"
+    },
+    {
+      "k": "Micro-ondas",
+      "h": "Girar não cozinha",
+      "p": "As micro-ondas fazem as moléculas de água <mark>girar</mark>. O que cozinha é a energia de translação que elas passam às moléculas vizinhas ao ricochetear nelas.",
+      "src": "Hewitt, §15.1"
+    },
+    {
+      "k": "Detalhe fino",
+      "h": "O termômetro mede a si",
+      "p": "Ele indica a <mark>própria temperatura</mark>, depois de trocar energia com o objeto até o equilíbrio térmico. Por isso precisa ser pequeno: medir uma gota mudaria a gota.",
+      "src": "Hewitt, §15.1"
+    },
+    {
+      "k": "Calor",
+      "h": "Energia em trânsito",
+      "p": "É a energia transferida de um corpo a outro <mark>por causa da diferença de temperatura</mark>. Uma vez transferida, ela deixa de ser calor.",
+      "src": "Hewitt, §15.2"
+    },
+    {
+      "k": "Descoberta",
+      "h": "Rumford e os canhões",
+      "p": "Perfurando canhões, ele notou que <mark>quanto mais cega a broca, mais calor saía</mark> — e sem fim, enquanto os cavalos girassem. A fonte era o movimento, não um fluido guardado no metal.",
+      "src": "Hewitt, abertura do cap. 15"
+    },
+    {
+      "k": "Consequência",
+      "h": "Matéria não contém calor",
+      "p": "O que a matéria contém é <mark>energia interna</mark>: a soma de todas as energias dentro dela — translação, rotação, vibração e energia potencial molecular.",
+      "src": "Hewitt, §15.2"
+    },
+    {
+      "k": "Sentido do fluxo",
+      "h": "Temperatura, não energia",
+      "p": "Uma tigela de água morna tem <mark>mais energia interna</mark> que uma tachinha incandescente — mas o calor flui da tachinha para a água. Sempre do mais quente para o mais frio.",
+      "src": "Hewitt, §15.2"
+    },
+    {
+      "k": "Unidades",
+      "h": "caloria e Caloria",
+      "p": "1 caloria aquece 1 g de água em 1 °C. A do rótulo dos alimentos é a <mark>Caloria com C maiúsculo</mark> — mil vezes maior. E 1 caloria = 4,184 joules.",
+      "src": "Hewitt, §15.2"
+    },
+    {
+      "k": "Calor específico",
+      "h": "Uma inércia térmica",
+      "p": "É o calor necessário para elevar em um grau a temperatura de uma unidade de massa. Funciona como <mark>resistência a mudar de temperatura</mark>.",
+      "src": "Hewitt, §15.3"
+    },
+    {
+      "k": "A fórmula",
+      "h": "Q = mcΔT",
+      "p": "Calor transferido é <mark>massa × calor específico × variação de temperatura</mark>. Um grama de ferro precisa de cerca de um oitavo do calor que a água pede.",
+      "src": "Hewitt, §15.3"
+    },
+    {
+      "k": "Água",
+      "h": "Campeã em armazenar",
+      "p": "Absorve muito calor com <mark>pouca elevação de temperatura</mark> — e demora a esfriar. É por isso que serve para refrigerar motores.",
+      "src": "Hewitt, §15.4"
+    },
+    {
+      "k": "Efeito global",
+      "h": "A Europa agradece",
+      "p": "A Corrente do Golfo leva água quente ao Atlântico Norte e <mark>solta essa energia no ar</mark>. Sem o alto calor específico da água, a Europa seria gelada como o nordeste do Canadá.",
+      "src": "Hewitt, §15.4"
+    },
+    {
+      "k": "Efeito local",
+      "h": "Costa oeste × costa leste",
+      "p": "Na mesma latitude, São Francisco tem invernos mais amenos e verões mais frescos que Washington, porque lá o vento vem <mark>do oceano para a terra</mark>.",
+      "src": "Hewitt, §15.4"
+    },
+    {
+      "k": "Dilatação",
+      "h": "Engenharia tem de prever",
+      "p": "A Golden Gate encurta mais de um metro nos dias frios. Daí as <mark>juntas de expansão</mark> em pontes e calçadas — e trilhos soldados são assentados no dia mais quente do verão.",
+      "src": "Hewitt, §15.5"
+    },
+    {
+      "k": "Aplicação",
+      "h": "A lâmina bimetálica",
+      "p": "Dois metais com taxas de dilatação diferentes soldados lado a lado: ao aquecer, a tira <mark>verga para um lado</mark> e abre ou fecha um circuito. É o coração do termostato.",
+      "src": "Hewitt, §15.5"
+    },
+    {
+      "k": "Líquidos",
+      "h": "Dilatam mais que sólidos",
+      "p": "A gasolina transborda do tanque no calor porque <mark>dilata mais que o metal</mark>. E o mercúrio sobe no termômetro porque dilata mais que o vidro do tubo.",
+      "src": "Hewitt, §15.5"
+    },
+    {
+      "k": "A anomalia",
+      "h": "Água entre 0 e 4 °C",
+      "p": "Nessa faixa a água <mark>contrai ao aquecer</mark>: os cristais ocos remanescentes vão colapsando, e esse efeito vence a agitação molecular até os 4 °C. Depois, ela dilata como todo mundo.",
+      "src": "Hewitt, §15.5"
+    },
+    {
+      "k": "Por que importa",
+      "h": "Lagos congelam por cima",
+      "p": "Ao congelar, a água aumenta uns <mark>10% de volume</mark> e fica menos densa. Se fosse mais densa a 0 °C, o gelo afundaria e os lagos congelariam do fundo para cima.",
+      "src": "Hewitt, §15.5"
+    },
+    {
+      "q": true,
+      "k": "Questão de revisão",
+      "h": "Comparados a um litro de água fervendo, dois litros de água fervendo:",
+      "opts": [
+        [
+          "A",
+          "Têm a mesma temperatura e a mesma energia interna"
+        ],
+        [
+          "B",
+          "Têm a mesma temperatura, mas o dobro da energia interna"
+        ],
+        [
+          "C",
+          "Têm o dobro da temperatura"
+        ],
+        [
+          "D",
+          "Têm temperatura maior, pois há mais moléculas agitadas"
+        ]
+      ],
+      "correct": 1,
+      "explain": "Temperatura é a energia cinética translacional <b>média por molécula</b> — idêntica nos dois casos. Energia interna é o <b>total</b>, e com o dobro das moléculas ela dobra. Confundir as duas coisas é o erro central deste capítulo."
+    }
+  ]
+}

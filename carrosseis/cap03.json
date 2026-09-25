@@ -1,0 +1,140 @@
+{
+  "user": "fisica.conceitual",
+  "av": "v",
+  "avc": "#30d158",
+  "disp": "Cap. 3 — Movimento Retilíneo",
+  "time": "há 8 horas",
+  "likes": 1193,
+  "likedBy": "monitoria.mecanica",
+  "comments": 97,
+  "cap": "Hewitt, Física Conceitual (12ª ed.), cap. 3: rapidez, velocidade e aceleração sem confundir — e por que uma pedra cai só 5 m no primeiro segundo. Deslize 👉",
+  "slides": [
+    {
+      "cover": true,
+      "tag": "Carrossel de estudo",
+      "h2": "Movimento Retilíneo",
+      "n": "Hewitt, cap. 3 · 16 cards + questão"
+    },
+    {
+      "k": "Ponto de partida",
+      "h": "O movimento é relativo",
+      "p": "Todo movimento é descrito <mark>em relação a alguma outra coisa</mark>. Sentada lendo isto, você faz 107.000 km/h em relação ao Sol — e 0 em relação à cadeira.",
+      "src": "Hewitt, §3.1"
+    },
+    {
+      "k": "Rapidez",
+      "h": "Distância por unidade de tempo",
+      "p": "Galileu foi o primeiro a medir o movimento com <mark>distância e tempo decorrido</mark>, no lugar dos vagos 'lento' e 'rápido'. Sem cronômetro, usava a própria pulsação.",
+      "src": "Hewitt, §3.2"
+    },
+    {
+      "k": "Rapidez",
+      "h": "Instantânea × média",
+      "p": "A instantânea é a do velocímetro, a de <mark>cada instante</mark>; a média é a distância total dividida pelo tempo total — e as duas quase sempre diferem.",
+      "src": "Hewitt, §3.2"
+    },
+    {
+      "k": "Velocidade",
+      "h": "Rapidez com orientação",
+      "p": "60 km/h é rapidez; 60 km/h <mark>para o norte</mark> é velocidade. Rapidez é escalar (só módulo), velocidade é vetorial (módulo e orientação).",
+      "src": "Hewitt, §3.3"
+    },
+    {
+      "k": "Velocidade",
+      "h": "Quando é constante",
+      "p": "Velocidade constante exige rapidez constante <mark>e trajetória retilínea</mark>. Um vagão em curva com rapidez fixa não tem velocidade constante — está acelerando.",
+      "src": "Hewitt, §3.3"
+    },
+    {
+      "k": "Aceleração",
+      "h": "A ideia-chave é variação",
+      "p": "Aceleração é a <mark>taxa de variação da velocidade</mark> com o tempo. Ganhar 5 km/h a cada segundo é acelerar 5 km/h·s — o segundo aparece duas vezes na unidade.",
+      "src": "Hewitt, §3.4"
+    },
+    {
+      "k": "Aceleração",
+      "h": "Fazer curva também acelera",
+      "p": "Como engloba mudança de orientação, há aceleração <mark>mesmo com rapidez constante</mark> numa curva. Um carro tem três controles que aceleram: acelerador, freio e volante.",
+      "src": "Hewitt, §3.4"
+    },
+    {
+      "k": "Cuidado",
+      "h": "Uma taxa de uma taxa",
+      "p": "Hewitt chama a aceleração do <mark>conceito mais difícil do livro</mark>: ela não é a velocidade nem uma variação de velocidade, mas a taxa com que a velocidade varia.",
+      "src": "Hewitt, §3.5"
+    },
+    {
+      "k": "Planos inclinados",
+      "h": "Rampa mais íngreme, mais aceleração",
+      "p": "Galileu usou rampas para <mark>desacelerar a queda</mark> e poder medi-la. Quanto maior a inclinação, maior a aceleração; na vertical, ela iguala a da queda livre.",
+      "src": "Hewitt, §3.4"
+    },
+    {
+      "k": "Queda livre",
+      "h": "O valor de g",
+      "p": "Caindo só sob a gravidade, o objeto ganha <mark>10 m/s a cada segundo</mark> (valor médio real: 9,8 m/s²). Hewitt arredonda para 10 porque múltiplos de 10 são mais óbvios.",
+      "src": "Hewitt, §3.5"
+    },
+    {
+      "k": "Quão rápido",
+      "h": "v = gt",
+      "p": "A velocidade de quem parte do repouso é <mark>g multiplicado pelo tempo</mark>. Depois de 5 s de queda, 50 m/s; depois de 6,5 s, 65 m/s.",
+      "src": "Hewitt, §3.5"
+    },
+    {
+      "k": "Subida e descida",
+      "h": "No topo a rapidez é zero",
+      "p": "Lançado para cima, o objeto perde 10 m/s por segundo, para no topo e volta como se tivesse sido solto dali. A <mark>aceleração é 10 m/s² o tempo todo</mark>.",
+      "src": "Hewitt, §3.5"
+    },
+    {
+      "k": "Quanto cai",
+      "h": "d = ½gt²",
+      "p": "A distância é proporcional ao <mark>quadrado do tempo</mark>: 5 m no primeiro segundo, 20 m em 2 s, 45 m em 3 s, 125 m em 5 s.",
+      "src": "Hewitt, §3.5"
+    },
+    {
+      "k": "A pegadinha",
+      "h": "5 metros, não 10",
+      "p": "No primeiro segundo a pedra cai 5 m mesmo terminando a 10 m/s, porque a <mark>rapidez média foi 5 m/s</mark> — ela começou do zero.",
+      "src": "Hewitt, §3.5"
+    },
+    {
+      "k": "Resistência do ar",
+      "h": "Pena e moeda no vácuo",
+      "p": "No ar, pena e moeda caem muito diferente; num tubo com o <mark>ar bombeado para fora</mark>, caem com a mesma aceleração.",
+      "src": "Hewitt, §3.5"
+    },
+    {
+      "k": "Vetores velocidade",
+      "h": "O avião e o vento transversal",
+      "p": "Avião a 80 km/h ao norte com vento de 60 km/h de través: a diagonal do paralelogramo dá <mark>100 km/h</mark>, a 37° a leste do norte.",
+      "src": "Hewitt, §3.6"
+    },
+    {
+      "q": true,
+      "k": "Questão de revisão",
+      "h": "Uma pedra é solta do repouso. Ao final do primeiro segundo de queda livre (g ≈ 10 m/s²), ela terá caído aproximadamente:",
+      "opts": [
+        [
+          "A",
+          "10 m, porque v = gt dá 10 m/s"
+        ],
+        [
+          "B",
+          "5 m"
+        ],
+        [
+          "C",
+          "20 m"
+        ],
+        [
+          "D",
+          "2,5 m"
+        ]
+      ],
+      "correct": 1,
+      "explain": "A rapidez vai de 0 a 10 m/s, então a <b>rapidez média no intervalo é 5 m/s</b> — e 5 m/s × 1 s = 5 m. Confundir 'quão rápido' (v = gt) com 'quanto cai' (d = ½gt²) é o erro mais comum do capítulo."
+    }
+  ]
+}
